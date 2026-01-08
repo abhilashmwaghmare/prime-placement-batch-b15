@@ -1,0 +1,446 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sample Resume Template - DevOps Engineer</title>
+    <style>
+        @media print {
+            @page {
+                size: A4;
+                margin: 1.5cm;
+            }
+            body {
+                margin: 0;
+                padding: 0;
+            }
+            .page-break {
+                page-break-before: always;
+            }
+            .no-print {
+                display: none;
+            }
+        }
+        
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Calibri', 'Arial', sans-serif;
+            font-size: 11pt;
+            line-height: 1.6;
+            color: #333;
+            max-width: 210mm;
+            margin: 0 auto;
+            padding: 20px;
+            background: #fff;
+        }
+        
+        .header {
+            text-align: center;
+            border-bottom: 3px solid #2c3e50;
+            padding-bottom: 15px;
+            margin-bottom: 20px;
+        }
+        
+        .header h1 {
+            font-size: 24pt;
+            color: #2c3e50;
+            margin-bottom: 5px;
+            font-weight: bold;
+        }
+        
+        .header .subtitle {
+            font-size: 14pt;
+            color: #7f8c8d;
+            font-style: italic;
+        }
+        
+        .section {
+            margin-bottom: 25px;
+            page-break-inside: avoid;
+        }
+        
+        .section-title {
+            font-size: 16pt;
+            font-weight: bold;
+            color: #2c3e50;
+            border-bottom: 2px solid #3498db;
+            padding-bottom: 5px;
+            margin-bottom: 15px;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+        
+        .contact-info {
+            text-align: center;
+            margin-bottom: 20px;
+            line-height: 1.8;
+        }
+        
+        .contact-info .name {
+            font-size: 18pt;
+            font-weight: bold;
+            margin-bottom: 5px;
+        }
+        
+        .contact-info .designation {
+            font-size: 12pt;
+            color: #7f8c8d;
+            margin-bottom: 10px;
+        }
+        
+        .contact-info .details {
+            font-size: 10pt;
+            color: #555;
+        }
+        
+        .summary {
+            text-align: justify;
+            margin-bottom: 20px;
+            padding: 15px;
+            background-color: #f8f9fa;
+            border-left: 4px solid #3498db;
+        }
+        
+        .experience-item {
+            margin-bottom: 20px;
+            page-break-inside: avoid;
+        }
+        
+        .experience-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: baseline;
+            margin-bottom: 10px;
+        }
+        
+        .company-name {
+            font-size: 13pt;
+            font-weight: bold;
+            color: #2c3e50;
+        }
+        
+        .designation-duration {
+            font-size: 11pt;
+            color: #7f8c8d;
+        }
+        
+        .responsibilities {
+            list-style: none;
+            padding-left: 0;
+        }
+        
+        .responsibilities li {
+            margin-bottom: 8px;
+            padding-left: 20px;
+            position: relative;
+            text-align: justify;
+        }
+        
+        .responsibilities li:before {
+            content: "●";
+            position: absolute;
+            left: 0;
+            color: #3498db;
+            font-weight: bold;
+        }
+        
+        .skills-grid {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 15px;
+            margin-top: 10px;
+        }
+        
+        .skill-category {
+            margin-bottom: 10px;
+        }
+        
+        .skill-category strong {
+            color: #2c3e50;
+            display: block;
+            margin-bottom: 5px;
+        }
+        
+        .skill-items {
+            color: #555;
+            font-size: 10pt;
+        }
+        
+        .education-item {
+            margin-bottom: 15px;
+        }
+        
+        .education-item .degree {
+            font-weight: bold;
+            color: #2c3e50;
+        }
+        
+        .education-item .university {
+            color: #7f8c8d;
+            font-size: 10pt;
+        }
+        
+        .certification-item {
+            margin-bottom: 10px;
+            padding-left: 15px;
+        }
+        
+        .certification-item strong {
+            color: #2c3e50;
+        }
+        
+        .two-column {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 20px;
+        }
+        
+        .print-instructions {
+            background-color: #fff3cd;
+            border: 2px solid #ffc107;
+            padding: 15px;
+            margin-bottom: 20px;
+            border-radius: 5px;
+        }
+        
+        .print-instructions h3 {
+            color: #856404;
+            margin-bottom: 10px;
+        }
+        
+        .print-instructions ol {
+            margin-left: 20px;
+        }
+        
+        .print-instructions li {
+            margin-bottom: 5px;
+        }
+        
+        @media screen {
+            .print-instructions {
+                display: block;
+            }
+        }
+        
+        @media print {
+            .print-instructions {
+                display: none;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="print-instructions no-print">
+        <h3>📄 How to Convert to PDF:</h3>
+        <ol>
+            <li><strong>Chrome/Edge:</strong> Press Ctrl+P (or Cmd+P on Mac) → Select "Save as PDF" → Click Save</li>
+            <li><strong>Firefox:</strong> Press Ctrl+P → Select "Save to File" → Choose PDF format → Save</li>
+            <li><strong>Online Tool:</strong> Use <a href="https://www.ilovepdf.com/html-to-pdf" target="_blank">iLovePDF</a> or similar services</li>
+            <li><strong>Print Settings:</strong> Ensure margins are set to "Minimum" and background graphics are enabled</li>
+        </ol>
+    </div>
+
+    <!-- CONTACT INFORMATION -->
+    <div class="section">
+        <div class="contact-info">
+            <div class="name">YOUR FULL NAME</div>
+            <div class="designation">DevOps Engineer / Cloud Engineer / Linux Administrator</div>
+            <div class="details">
+                Email: your.email@outlook.com | Phone: +91-XXXXXXXXXX | Location: PUNE<br>
+                GitHub: github.com/yourusername | LinkedIn: linkedin.com/in/yourprofile
+            </div>
+        </div>
+    </div>
+
+    <!-- PROFESSIONAL SUMMARY -->
+    <div class="section">
+        <div class="section-title">Professional Summary</div>
+        <div class="summary">
+            DevOps Engineer with 5+ years of hands-on experience in architecting, automating and optimizing mission-critical deployments over large infrastructure. Proficient with Configuration Management tools, Orchestration tools, and Containerization. Hands-on experience with cloud computing, Infrastructure as Code, and Scripting.
+        </div>
+    </div>
+
+    <!-- EXPERIENCE -->
+    <div class="section">
+        <div class="section-title">Experience</div>
+        
+        <div class="experience-item">
+            <div class="experience-header">
+                <div class="company-name">Company Name</div>
+                <div class="designation-duration">DevOps Engineer (Start Date - End Date)</div>
+            </div>
+            <ul class="responsibilities">
+                <li>Responsible for implementing best cloud and DevOps practices on the Client environment. Worked closely with clients to establish specifications and system designs.</li>
+                <li>Automation of infrastructure installation, configuration, and maintenance using GitLab CI/CD pipeline, Terraform, and Shell Scripts.</li>
+                <li>Managed Organization root account, managed IAM users, policies, and Groups. Created custom policy and roles for various AWS services.</li>
+                <li>Managed S3 Buckets, Versions and Replications, Implemented cost cutting resources.</li>
+                <li>Configured AWS EKS cluster from scratch for Dev, QA, Staging and Pre-Prod environments setting up Kubernetes health checks, NGINX Ingress Controller, and Ingress rules for various environments.</li>
+                <li>Implemented deployment strategies, make DR systems, and Backup systems.</li>
+                <li>Worked with developers to modernize the application and deploy the application on Kubernetes.</li>
+                <li>Managed SSL/TLS Certificate in Kubernetes cluster using cert-manager letsencrypt and clusterissuer.</li>
+                <li>Migrate Infrastructure from GCP to AWS with AWS stack VPC, Subnets, LoadBalancer, AutoScaling, Route53, RDS, and CloudFront.</li>
+                <li>Migrated Databases from On-Prem to AWS.</li>
+                <li>Monitored and created alerts with CloudWatch and CloudWatch Agents. Created notification with Topics in SNS.</li>
+                <li>Worked with monitoring dashboards such as Grafana, Prometheus, Kiali, Jaeger, and Kubewatch.</li>
+                <li>Worked with Helm, ArgoCD, Linkerd, and Nginx Ingress.</li>
+                <li>For CI/CD, used GitLab CI for continuous integration and ArgoCD for continuous deployment. Integrated GitLab CI, ArgoCD, Helm, Istio, Rollout, and canary deployment strategy.</li>
+                <li>Automate three-tier infrastructure deployment on AWS using VPC, EC2, AutoScaling Group, Route53, NAT, CloudFront, from scratch like creating the folders and projects till the application deployment phase with the help of Jenkins, Terraform, and Ansible.</li>
+                <li>Acknowledging, Implementing, Managing, Working, and Resolving user Incidents, Change, Service Catalog, Problem, Reports & Release Management across different development platforms to resolve frequently faced issues.</li>
+                <li>Troubleshooting by identifying the root cause and documenting it.</li>
+                <li>Collaborated with developers and performance engineers to enhance supportability and identify performance bottlenecks.</li>
+                <li>Migrated VMs from On-prem to Azure cloud. Worked with VNET, Azure VMs, VPNs, Blob Storage, Azure Migrate, and Azure AD.</li>
+                <li>Migrated VMs from AWS to GCP using Velostrata, and GCP VPN.</li>
+            </ul>
+        </div>
+
+        <div class="experience-item">
+            <div class="experience-header">
+                <div class="company-name">HisanLabs Pvt Ltd</div>
+                <div class="designation-duration">DevOps Engineer (Duration)</div>
+            </div>
+            <ul class="responsibilities">
+                <li>Involved in Designing and deploying applications using AWS stack (Including EC2, Route53, S3, RDS, IAM) focusing on high availability, fault tolerance, and durability.</li>
+                <li>Involved in AWS automation based on EC2, VPC, LoadBalancer, Auto Scaling, S3, IAM, RDS, SQS, SNS, CDN, Route53 using Terraform, Ansible, and Bash Scripts.</li>
+                <li>Install and configure master-slave Jenkins servers. Develop CI/CD roadmap and implement the project.</li>
+                <li>Deployed application using Jenkins deployment pipeline on staging, non-production, and production environments.</li>
+                <li>Created webhook with GitHub and automated the trigger of Jenkins job.</li>
+                <li>Integrated Git and Maven with Jenkins for the Continuous Integration process.</li>
+                <li>Used Ansible for installing and configuring the servers in all the environments. Wrote complex playbooks and roles for the same.</li>
+                <li>Created and maintained static and dynamic inventory in Ansible.</li>
+                <li>Automate and execute projects from the scratch till their deployment phase with Jenkins declarative pipeline.</li>
+                <li>Used Ansible Vault to encrypt any credentials that have to be passed in the script.</li>
+                <li>Responsible for maintaining and upgrading various software and applications, resolving any network problems, and conducting regular backups.</li>
+                <li>Work closely with development teams to coordinate releases and resolve specific build failures. Analyze and improve a process with a bias toward automation.</li>
+                <li>Experience in branching, merging, tagging and maintaining version across environments using SCM tools like GIT/GITHUB.</li>
+                <li>Writing Dockerfile to containerize the application, create custom Docker images, tagging, store, and manage images on DockerHub and ECR.</li>
+            </ul>
+        </div>
+    </div>
+
+    <!-- CERTIFICATIONS -->
+    <div class="section">
+        <div class="section-title">Certifications</div>
+        <div class="certification-item">
+            <strong>• Certificate Name</strong> - Certificate ID: XXXXXX - Validity: YYYY
+        </div>
+        <div class="certification-item">
+            <strong>• Certificate Name</strong> - Certificate ID: XXXXXX - Validity: YYYY
+        </div>
+        <div class="certification-item">
+            <strong>• Certificate Name</strong> - Certificate ID: XXXXXX - Validity: YYYY
+        </div>
+    </div>
+
+    <!-- TECHNICAL SKILLS -->
+    <div class="section">
+        <div class="section-title">Technical Skills</div>
+        <div class="skills-grid">
+            <div class="skill-category">
+                <strong>Cloud Platforms</strong>
+                <div class="skill-items">AWS, GCP, Azure</div>
+            </div>
+            <div class="skill-category">
+                <strong>IAC</strong>
+                <div class="skill-items">Terraform, CloudFormation</div>
+            </div>
+            <div class="skill-category">
+                <strong>Build Tools</strong>
+                <div class="skill-items">Maven</div>
+            </div>
+            <div class="skill-category">
+                <strong>Containerization</strong>
+                <div class="skill-items">Docker, ECS, Fargate</div>
+            </div>
+            <div class="skill-category">
+                <strong>Orchestration</strong>
+                <div class="skill-items">Kubernetes, EKS, Helm</div>
+            </div>
+            <div class="skill-category">
+                <strong>Service Mesh</strong>
+                <div class="skill-items">Istio, Linkerd</div>
+            </div>
+            <div class="skill-category">
+                <strong>SCM</strong>
+                <div class="skill-items">GitLab, GitHub</div>
+            </div>
+            <div class="skill-category">
+                <strong>CI Tools</strong>
+                <div class="skill-items">Jenkins, GitLab CI, Cloud Build</div>
+            </div>
+            <div class="skill-category">
+                <strong>CD Tools</strong>
+                <div class="skill-items">Jenkins, ArgoCD</div>
+            </div>
+            <div class="skill-category">
+                <strong>Config. Management</strong>
+                <div class="skill-items">Ansible</div>
+            </div>
+            <div class="skill-category">
+                <strong>Web Server</strong>
+                <div class="skill-items">Apache WebServer, Apache Tomcat, Nginx</div>
+            </div>
+            <div class="skill-category">
+                <strong>Monitoring</strong>
+                <div class="skill-items">CloudWatch, Prometheus, Grafana</div>
+            </div>
+            <div class="skill-category">
+                <strong>Storage</strong>
+                <div class="skill-items">S3, EFS, Cloud Storage</div>
+            </div>
+            <div class="skill-category">
+                <strong>Scripting Language</strong>
+                <div class="skill-items">Bash Scripting, Groovy, Python, Go</div>
+            </div>
+            <div class="skill-category">
+                <strong>Programming Language</strong>
+                <div class="skill-items">Java, C#, .NET, C, C++</div>
+            </div>
+            <div class="skill-category">
+                <strong>Linux OS</strong>
+                <div class="skill-items">RHEL 7, CentOS 7, Ubuntu 18, Debian 18, Alpine</div>
+            </div>
+        </div>
+    </div>
+
+    <!-- EDUCATION -->
+    <div class="section">
+        <div class="section-title">Education</div>
+        <div class="education-item">
+            <div class="degree">BE in Computer Science and Engineering - Passout Year</div>
+            <div class="university">University Name, Nagpur</div>
+        </div>
+        <div class="education-item">
+            <div class="degree">HSC - Year</div>
+            <div class="university">Maharashtra State Board</div>
+        </div>
+    </div>
+
+    <!-- PERSONAL DETAILS (Optional) -->
+    <div class="section">
+        <div class="section-title">Personal Details</div>
+        <div style="line-height: 2;">
+            <strong>Full Name:</strong> [Your Full Name]<br>
+            <strong>Permanent Address:</strong> [Your Permanent Address]<br>
+            <strong>Current Address:</strong> [Your Current Address]<br>
+            <strong>Gender:</strong> Male<br>
+            <strong>Marital Status:</strong> Unmarried
+        </div>
+    </div>
+
+    <script>
+        // Auto-hide print instructions when printing
+        window.addEventListener('beforeprint', function() {
+            document.querySelector('.print-instructions').style.display = 'none';
+        });
+        
+        window.addEventListener('afterprint', function() {
+            document.querySelector('.print-instructions').style.display = 'block';
+        });
+    </script>
+</body>
+</html>
