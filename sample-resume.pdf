@@ -1,0 +1,95 @@
+Name
+(DevOps Engineer)
+Email-id
+Contact number
+Githublink
+linkdien link
+
+
+
+Introduction
+DevOps Engineer with 5+ years of hands-on experience in architecting/automating and optimizing mission-critical deployments over a large infrastructure. Proficient with Configuration Management tools, Orchestration tools, Containerization. Hands-on experience with cloud computing, Infrastructure as a code, and Scripting.
+
+
+Experience Details:
+
+# Company Name
+# Designation ( Duration)
+●	Responsible for implementing best cloud and DevOps practices on the Client environment. Worked closely with clients to establish specifications and system designs.
+●	Automation of infrastructure installation, configuration, and maintenance using Gitlab CICD pipeline, Terraform, and Shell Scripts.
+●	Managed Organization root account, managed IAM users, policies, and Groups. Created custom policy and roles for various aws services.
+●	Managed s3 Buckets, Versions and Replications, Implemented cost cutting resources.
+●	Configured AWS EKS cluster from scratch for Dev, QA, Staging and Pre-Prod environments setting up Kubernetes health checks, NGINX Ingress Controller, and Ingress rules for various environments
+●	Implemented deployment strategies, make DR systems, and Backup systems.
+●	Worked with developers to modernize the application and deploy the application on kubernetes.
+●	Managed SSL/TLS Certificate in kubernetes cluster using cert-manager letsencrypt and clusterissuer.
+●	Migrate Infrastructure from GCP to AWS with AWS stack VPC, Subnets, LoadBalancer, AutoScaling, Route53, RDS, and CloudFront
+●	Migrated Databases from On-Prem to AWS
+●	Monitored and created alerts with CloudWatch and Cloudwatch Agents. Created notification with Topics in SNS.
+●	Worked with monitoring dashboards such as grafana, prometheus, kiali, jaeger, and kubewatch.
+●	Worked with Helm, ArgoCD, Linkerd, and Nginx Ingress
+●	For CICD, I used gitlab-ci for continuous integration and ArgoCD for continuous deployment. Integrated gitlab-ci, argoCD, helm, istio, rollout, and
+ 
+canary deployment strategy.
+●	Automate three-tier infrastructure deployment on AWS using VPC, EC2, VPC, AutoScaling Group, Route53, NAT, CloudFront, and from scratch like creating the folders and projects till the application deployment phase with the help of Jenkins, Terraform, and Ansible.
+●	Acknowledging, Implementing, Managing, Working, and Resolving user Incidents, Change, Service Catalog, Problem, Reports & Release Management across different development platforms to resolve frequently faced issues
+●	Troubleshooting by identifying the root cause and documenting it.
+●	Collaborated with developers and performance engineers to enhance supportability and identify performance bottlenecks
+●	Migrated VMs from On-prem to Azure cloud. Worked with VNET, Azure VMs, VPNs, Blob Storage, Azure Migrate, and Azure AD
+●	Migrated VMs from AWS to GCP using Velostrata, and GCP VPN.
+
+
+HisanLabs Pvt Ltd
+DevOps Engineer (Duration)
+●	Involved in Designing and deploying applications using AWS stack (Including EC2, Route53, S3, RDS, IAM) focusing on high availability, fault tolerance, and durability.
+●	Involved in AWS automation based on EC2, VPC, LoadBalancer, Auto Scaling, S3, IAM, RDS, SQS, SNS, CDN, Route53 using Terraform, Ansible, and Bash Scripts.
+●	Install and configure master-slave Jenkins servers. Develop CI/CD roadmap and implement the project.
+●	Deployed application using Jenkins deployment pipeline on staging, non-production, and production environments
+●	Created webhook with GitHub and automated the trigger of Jenkins job.
+●	Integrated Git and Maven with Jenkins for the Continuous Integration process.
+●	Used Ansible for installing and configuring the servers in all the environments. Wrote complex playbooks and roles for the same.
+●	Created and maintained static and dynamic inventory in ansible.
+●	Automate and execute projects from the scratch till their deployment phase with Jenkins declarative pipeline.
+●	Used Ansible Vault to encrypt any credentials that have to be passed in the script.
+●	Responsible for maintaining and upgrading various software and applications, resolving any network problems, and conducting regular backups.
+●	Work closely with development teams to coordinate releases and resolve specific build failures. Analyze and improve a process with a bias toward automation.
+●	Experience in branching, merging, tagging and maintaining version across environments using SCM tools like GIT/GITHUB
+●	Writing dockerfile to containerize the application, create custom Docker images, tagging, store, and manage images on DockerHub and ECR.
+
+Certification
+
+ 
+Technical Skills
+
+Cloud Platforms	-	AWS, GCP, AZURE
+IAC	-	Terraform, Cloud Formation
+Build Tools	-	Maven Containerization	-	Docker, ECS, Fargate
+Orchestration	-	Kubernetes, EKS, HELM
+Service Mesh	-	istio, linkerd,
+SCM	-	GitLab, GitHub
+CI Tools	-	Jenkins, Gitlab-ci, Cloud Build
+CD Tools	-	Jenkins, ArgoCD Config. Management	-	Ansible
+Web Server	-	Apache WebServer, Apache Tomcat, Nginx, nohup Monitoring	-	Cloudwatch, prometheus, grafana
+Storage	-	S3, EFS, cloud storage
+Scripting Language	-	Bash scripting, Groovy, Python, go Programming Language -	java, c#, .net, c, c++
+Linux OS	-	RHEL 7, CentOS 7, Ubuntu 18, Debian 18, alpine
+
+
+
+Education
+
+BE in Computer Science and Engineering -  Passout Year
+# University Name, Nagpur
+
+HSC  - Year
+Maharashtra State Board
+
+
+Personal Details
+Full Name:	
+Permanent Address:	
+Current Address:	
+
+Gender:	Male
+Marrital Status:	Unmarried
+
