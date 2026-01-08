@@ -7,14 +7,14 @@ linkdien link
 
 
 
-Introduction
+##Introduction
 DevOps Engineer with 5+ years of hands-on experience in architecting/automating and optimizing mission-critical deployments over a large infrastructure. Proficient with Configuration Management tools, Orchestration tools, Containerization. Hands-on experience with cloud computing, Infrastructure as a code, and Scripting.
 
 
 Experience Details:
 
-# Company Name
-# Designation ( Duration)
+## Company Name
+## Designation ( Duration)
 ●	Responsible for implementing best cloud and DevOps practices on the Client environment. Worked closely with clients to establish specifications and system designs.
 ●	Automation of infrastructure installation, configuration, and maintenance using Gitlab CICD pipeline, Terraform, and Shell Scripts.
 ●	Managed Organization root account, managed IAM users, policies, and Groups. Created custom policy and roles for various aws services.
@@ -39,8 +39,8 @@ canary deployment strategy.
 ●	Migrated VMs from AWS to GCP using Velostrata, and GCP VPN.
 
 
-HisanLabs Pvt Ltd
-DevOps Engineer (Duration)
+## HisanLabs Pvt Ltd
+## DevOps Engineer (Duration)
 ●	Involved in Designing and deploying applications using AWS stack (Including EC2, Route53, S3, RDS, IAM) focusing on high availability, fault tolerance, and durability.
 ●	Involved in AWS automation based on EC2, VPC, LoadBalancer, Auto Scaling, S3, IAM, RDS, SQS, SNS, CDN, Route53 using Terraform, Ansible, and Bash Scripts.
 ●	Install and configure master-slave Jenkins servers. Develop CI/CD roadmap and implement the project.
@@ -56,10 +56,10 @@ DevOps Engineer (Duration)
 ●	Experience in branching, merging, tagging and maintaining version across environments using SCM tools like GIT/GITHUB
 ●	Writing dockerfile to containerize the application, create custom Docker images, tagging, store, and manage images on DockerHub and ECR.
 
-Certification
+# Certification
 
  
-Technical Skills
+## Technical Skills
 
 Cloud Platforms	-	AWS, GCP, AZURE
 IAC	-	Terraform, Cloud Formation
@@ -76,7 +76,7 @@ Linux OS	-	RHEL 7, CentOS 7, Ubuntu 18, Debian 18, alpine
 
 
 
-Education
+## Education
 
 BE in Computer Science and Engineering -  Passout Year
 # University Name, Nagpur
@@ -85,7 +85,7 @@ HSC  - Year
 Maharashtra State Board
 
 
-Personal Details
+## Personal Details
 Full Name:	
 Permanent Address:	
 Current Address:	
