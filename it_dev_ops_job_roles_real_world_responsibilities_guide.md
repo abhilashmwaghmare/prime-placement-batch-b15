@@ -264,12 +264,6 @@ Linux Administrator:
 
 ---
 
-## ⭐ How to Use This Document
-- Add to **GitHub repo** as `JOB_ROLES_GUIDE.md`
-- Reference in **resume & LinkedIn**
-- Use for **interview explanations**
 
----
 
-✅ *This document reflects real‑world industry practices across Linux, Cloud, AWS & DevOps roles.*
 
