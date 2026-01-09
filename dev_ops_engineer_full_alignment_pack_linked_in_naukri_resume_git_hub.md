@@ -36,11 +36,11 @@ DevOps Engineer (Fresher) with strong foundational knowledge of cloud computing 
 
 ## 🔹 Top 5 Key Skills (Fresher)
 ```md
-AWS Cloud
+AWS Cloud | AZURE | GCP
 Linux
-CI/CD (Jenkins)
-Docker & Kubernetes (Basics)
-Terraform (Fundamentals)
+CI/CD (Jenkins) | Github Action | Gitlab
+Docker & Kubernetes 
+Terraform | Cloudformation
 ```
 
 ---
@@ -138,7 +138,7 @@ Scripting: Bash | Python
 
 ## 🔹 LinkedIn Headline (Experienced)
 ```md
-DevOps Engineer | AWS | Kubernetes | CI/CD | Terraform | Linux | Cloud Automation
+DevOps Engineer | AWS | AZURE | GCP | Jenkins | Maven | Sonarqube | Kubernetes | CI/CD | Terraform | Linux | Cloud Automation | Prometheus | Graphana | Datadog 
 ```
 
 ---
