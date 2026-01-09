@@ -1,7 +1,4 @@
 # 🔷 LinkedIn SOP – DevOps Engineer (Recruiter & ATS Optimized)
-
-This **Standard Operating Procedure (SOP)** helps you build a **high-visibility LinkedIn profile** as a **DevOps Engineer**, optimized for **recruiter searches, keywords, and inbound opportunities**.
-
 ---
 
 ## 1️⃣ Profile Photo & Banner (First Impression)
@@ -25,15 +22,15 @@ This **Standard Operating Procedure (SOP)** helps you build a **high-visibility 
 
 ### Sample Headlines
 ```md
-DevOps Engineer | AWS | Docker | Kubernetes | Jenkins | Terraform | CI/CD | Linux
+DevOps Engineer | AWS | AZURE | GCP | Docker | Kubernetes | Jenkins | Terraform | CI/CD | Linux | Prometheus | Graphana | Python
 ```
 
 ```md
-Cloud & DevOps Engineer | AWS | CI/CD Automation | Kubernetes | Terraform | Linux
+Cloud & DevOps Engineer | AWS | AZURE | GCP | CI/CD Automation | Kubernetes | Terraform | Linux | Ubuntu | | Prometheus | Graphana | Python
 ```
 
 ```md
-DevOps Engineer (1–3 Years) | AWS Cloud | CI/CD | Docker | Kubernetes | IaC
+DevOps Engineer (1–3 Years)  | AWS | AZURE | GCP | CI/CD Automation | Kubernetes | Terraform | Linux | Ubuntu | | Prometheus | Graphana | Python
 ```
 
 ---
@@ -156,10 +153,4 @@ DevOps Engineer | AWS | Kubernetes | CI/CD | Terraform | Building Reliable Cloud
 
 ---
 
-📌 Want:
-- Fresher / Senior LinkedIn versions
-- JD-based About section
-- Personal branding content calendar
-
-Just tell me 👍
 
