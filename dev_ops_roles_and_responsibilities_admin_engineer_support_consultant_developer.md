@@ -238,15 +238,5 @@ This document provides a **real-world, production-focused explanation of DevOps 
 
 ---
 
-## 📌 How to Use This Document
-- Add to GitHub repo as:
-  ```
-  devops-roles-responsibilities.md
-  ```
-- Reference in **resume, LinkedIn, and interviews**
-- Use as **DevOps role explanation & preparation guide**
 
----
-
-✅ *This document reflects enterprise-grade DevOps responsibilities followed in real-world production environments.*
 
