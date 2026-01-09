@@ -177,7 +177,7 @@ DevOps-Production/
 - Same **keywords** across Resume, Naukri & LinkedIn
 - Same **tool order** everywhere (AWS → CI/CD → Docker → K8s → Terraform)
 - GitHub projects mentioned in Resume & LinkedIn
-- Update Naukri & LinkedIn every 7–10 days
+- Update Naukri 1-2 days & LinkedIn every 7–10 days
 
 ---
 
