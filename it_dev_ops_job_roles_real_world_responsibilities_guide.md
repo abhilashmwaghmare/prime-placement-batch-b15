@@ -1,7 +1,4 @@
-# 📘 IT, Cloud & DevOps Job Roles – Real‑World Responsibilities (With Examples)
-
-This document explains **common IT, Cloud, Linux, AWS & DevOps job roles** with **real‑time, practical examples**. It is designed to be **GitHub‑portfolio ready** and useful for **freshers, experienced engineers, and interview preparation**.
-
+# 📘 IT, Cloud & DevOps Job Roles & Responsibilities
 ---
 
 ## 1️⃣ Consultant (Technical / Network / Linux / System / Cloud / AWS / DevOps)
