@@ -1,7 +1,5 @@
 # 🚀 DevOps Engineer – Full Alignment Pack
 
-This **Full Alignment Pack** ensures your **LinkedIn, Naukri, Resume, and GitHub** all tell the **same strong story**, are **ATS-friendly**, and maximize recruiter reach.
-
 ---
 
 # 🟢 PART 1: FRESHER DEVOPS ENGINEER (0–1 YEAR)
@@ -50,20 +48,20 @@ Terraform (Fundamentals)
 ## 🔹 IT Skills (Fresher)
 ```md
 Operating Systems: Linux (Ubuntu, Amazon Linux)
-Cloud: AWS
-CI/CD: Jenkins
-Containers: Docker, Kubernetes (Basics)
-IaC: Terraform
-Version Control: Git, GitHub
-Scripting: Bash
-Monitoring: Datadog (Basics)
+Cloud: AWS | GCP | AZURE
+CI/CD: Jenkins | Github Action | Gitlab 
+Containers: Docker | Kubernetes | Docker sworm
+IaC: Terraform | Cloudformation | Ansible 
+Version Control: Git | GitHub | Gitlab 
+Scripting: Bash | Python | shell scripting
+Monitoring: Datadog | cloudwatch | Prometheus | Graphana
 ```
 
 ---
 
 ## 🔹 LinkedIn Headline (220 Characters)
 ```md
-DevOps Engineer (Fresher) | AWS | Linux | Jenkins | Docker | Kubernetes | Terraform
+DevOps Engineer (Fresher) | AWS | GCP | AZURE | Linux | Jenkins | Docker | Kubernetes | Terraform | Datadog | Prometheus | Sonarqube
 ```
 
 ---
@@ -75,15 +73,7 @@ Aspiring DevOps Engineer with hands-on experience in AWS, Linux, Jenkins CI/CD p
 
 ---
 
-## 🔹 GitHub Repo Structure (Fresher)
-```md
-DevOps-Projects/
-├── cicd-jenkins/
-├── docker-projects/
-├── kubernetes-basics/
-├── terraform-aws/
-├── monitoring-datadog/
-└── README.md
+
 ```
 
 ---
@@ -122,25 +112,26 @@ DevOps Engineer with professional experience in automating, deploying, and manag
 
 ## 🔹 Top 5 Key Skills (Experienced)
 ```md
-AWS Cloud
-CI/CD Automation
+AWS Cloud | Azure | GCP
+CI/CD Automation 
 Docker & Kubernetes
 Terraform (IaC)
 Linux Administration
+Monitoring | Prometheus | Graphana
 ```
 
 ---
 
 ## 🔹 IT Skills (Experienced)
 ```md
-Operating Systems: Linux
-Cloud Platforms: AWS, Azure (Optional)
-CI/CD Tools: Jenkins
-Containers: Docker, Kubernetes
-IaC: Terraform, CloudFormation
-Monitoring: Datadog, Grafana
-Version Control: Git, GitHub
-Scripting: Bash
+Operating Systems: Linux | Ubuntu
+Cloud Platforms: AWS | Azure | GCP 
+CI/CD Tools: Jenkins | Github Action | Gitlab
+Containers: Docker | Kubernetes
+IaC: Terraform | CloudFormation
+Monitoring: Datadog | Grafana | Prometheus
+Version Control: Git | GitHub
+Scripting: Bash | Python
 ```
 
 ---
@@ -159,17 +150,6 @@ DevOps Engineer experienced in AWS cloud, CI/CD automation, Docker, Kubernetes, 
 
 ---
 
-## 🔹 GitHub Repo Structure (Experienced)
-```md
-DevOps-Production/
-├── aws-architecture/
-├── cicd-pipelines/
-├── docker-kubernetes/
-├── terraform-modules/
-├── monitoring-observability/
-└── README.md
-```
-
 ---
 
 # ⭐ ALIGNMENT CHECKLIST (VERY IMPORTANT)
@@ -181,10 +161,7 @@ DevOps-Production/
 
 ---
 
-📌 Want me to:
-- Create **ready-to-push GitHub READMEs**
-- Customize for a **specific JD**
-- Generate **resume PDF/Word content**
 
-Just tell me 👍
+
+
 
