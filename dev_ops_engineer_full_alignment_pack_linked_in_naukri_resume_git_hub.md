@@ -37,7 +37,7 @@ DevOps Engineer (Fresher) with strong foundational knowledge of cloud computing 
 ## 🔹 Top 5 Key Skills (Fresher)
 ```md
 AWS Cloud | AZURE | GCP
-Linux
+Linux | Ubuntu
 CI/CD (Jenkins) | Github Action | Gitlab
 Docker & Kubernetes 
 Terraform | Cloudformation
