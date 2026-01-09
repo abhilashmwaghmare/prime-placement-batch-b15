@@ -151,31 +151,6 @@ Senior DevOps Engineer with 3–5 years of experience in architecting, automatin
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## 5️⃣ Projects Section (Highly Recommended)
 
 📌 **Tip:** Add 2–4 real or practice projects
@@ -256,16 +231,6 @@ Immediate Joiner | Open to DevOps & Cloud Roles | Strong AWS & CI/CD Experience
 ```
 
 ---
-
-📌 **Next Steps:**
-- Want this converted into a **resume**?
-- Need a **fresher version**?
-- Want **ATS-optimized keywords**?
-
-Just tell me 👍
-
-
-
 ---
 
 # 🔄 Experience-Based Versions
@@ -365,5 +330,5 @@ Blue-Green Deployment, DR, HA Architecture
 
 ---
 
-✅ **Tip:** Choose the version that matches your experience and update Naukri keywords every 7–10 days for maximum recruiter visibility.
+✅ **Tip:** Choose the version that matches your experience and update Naukri keywords every 1-2 days for maximum recruiter visibility.
 
