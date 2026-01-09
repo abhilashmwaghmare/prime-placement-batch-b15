@@ -162,15 +162,4 @@ This document outlines **real-world Linux & System roles and responsibilities** 
 
 ---
 
-## 📌 How to Use This Document
-- Add to GitHub repo as:
-  ```
-  linux-system-roles-responsibilities.md
-  ```
-- Reference in **resume & LinkedIn**
-- Use for **interview explanations & real-time scenarios**
-
----
-
-✅ *This document reflects hands-on Linux system administration and engineering responsibilities followed in real production environments.*
 
