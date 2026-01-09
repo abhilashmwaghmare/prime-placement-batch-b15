@@ -205,15 +205,5 @@ This document explains **real-world AWS & Cloud roles and responsibilities** wit
 
 ---
 
-## 📌 How to Use This Document
-- Add to GitHub repo as:
-  ```
-  aws-cloud-roles-responsibilities.md
-  ```
-- Reference in **resume, LinkedIn, and interviews**
-- Use as **cloud role explanation guide**
 
----
-
-✅ *This document reflects enterprise-grade AWS & Cloud responsibilities followed in real production environments.*
 
