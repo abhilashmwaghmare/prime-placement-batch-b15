@@ -4,14 +4,10 @@
 
 # 🟢 PART 1: FRESHER DEVOPS ENGINEER (0–1 YEAR)
 
----
-
 ## 🔹 Resume Headline (250 Characters)
 ```md
 DevOps Engineer (Fresher) with hands-on experience in AWS cloud, Linux, Git, Jenkins CI/CD pipelines, Docker containerization, Kubernetes basics, Terraform fundamentals, shell scripting, and deployment automation through real-time projects.
 ```
-
----
 
 ## 🔹 Resume / Naukri Profile Summary (≈1000 Characters)
 ```md
@@ -71,30 +67,17 @@ DevOps Engineer (Fresher) | AWS | GCP | AZURE | Linux | Jenkins | Docker | Kuber
 Aspiring DevOps Engineer with hands-on experience in AWS, Linux, Jenkins CI/CD pipelines, Docker containerization, Kubernetes basics, and Terraform infrastructure automation through real-time projects. Actively learning cloud-native technologies and DevOps best practices.
 ```
 
----
-
-
-```
-
----
-
 # 🔵 PART 2: EXPERIENCED DEVOPS ENGINEER (1–5 YEARS)
-
----
 
 ## 🔹 Resume Headline (250 Characters)
 ```md
 DevOps Engineer with 1–5 years of experience in AWS cloud infrastructure, CI/CD automation using Jenkins, Docker containerization, Kubernetes orchestration, Terraform Infrastructure as Code, Linux administration, monitoring, and scalable deployments.
 ```
 
----
-
 ## 🔹 Resume / Naukri Profile Summary (≈1000 Characters)
 ```md
 DevOps Engineer with professional experience in automating, deploying, and managing scalable cloud infrastructure and CI/CD pipelines. Strong expertise in AWS services including EC2, S3, IAM, VPC, Load Balancer, and Auto Scaling. Experienced in CI/CD automation using Jenkins, Docker containerization, and Kubernetes orchestration for cloud-native applications. Skilled in Infrastructure as Code using Terraform for automated provisioning and configuration management. Proficient in Linux system administration, Git version control, and deployment strategies. Hands-on experience with monitoring and alerting using Datadog. Proven ability to support production systems, resolve incidents, collaborate with cross-functional teams, and improve system reliability following DevOps best practices.
 ```
-
----
 
 ## 🔹 Employment – Job Profile (≈4000 Characters)
 ```md
@@ -108,8 +91,6 @@ DevOps Engineer with professional experience in automating, deploying, and manag
 • Collaborated with development and QA teams to improve release efficiency.
 ```
 
----
-
 ## 🔹 Top 5 Key Skills (Experienced)
 ```md
 AWS Cloud | Azure | GCP
@@ -119,8 +100,6 @@ Terraform (IaC)
 Linux Administration
 Monitoring | Prometheus | Graphana
 ```
-
----
 
 ## 🔹 IT Skills (Experienced)
 ```md
@@ -134,21 +113,15 @@ Version Control: Git | GitHub
 Scripting: Bash | Python
 ```
 
----
-
 ## 🔹 LinkedIn Headline (Experienced)
 ```md
 DevOps Engineer | AWS | AZURE | GCP | Jenkins | Maven | Sonarqube | Kubernetes | CI/CD | Terraform | Linux | Cloud Automation | Prometheus | Graphana | Datadog 
 ```
 
----
-
 ## 🔹 LinkedIn About (Experienced)
 ```md
 DevOps Engineer experienced in AWS cloud, CI/CD automation, Docker, Kubernetes, Terraform, and Linux administration. Passionate about building reliable, scalable, and automated cloud infrastructure and improving deployment efficiency.
 ```
-
----
 
 ---
 
