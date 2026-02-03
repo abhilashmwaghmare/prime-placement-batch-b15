@@ -268,7 +268,7 @@ Bulk creation of linux users using CSV file.
 
 Service Health monitor script in Bash
 
-Find and delete files over 100MB
+Find and delete files over 100MB    ----  find / -size +100M -delete
 
 Can you restore lost pem file ? If not how can you access the instance ?
 
