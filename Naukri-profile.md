@@ -158,19 +158,23 @@ Senior DevOps Engineer with 3–5 years of experience in architecting, automatin
 ### ✅ Sample Projects
 
 ```md
-Project: CI/CD Pipeline for Java Application
-• Built an end-to-end CI/CD pipeline using Jenkins
-• Source control managed with GitHub
-• Dockerized application and deployed on Kubernetes
-• Hosted infrastructure on AWS EC2
-• Integrated monitoring using Datadog
+Project 1: Flight Reservation Microservices Application
+Technologies: Docker  |  Kubernetes  |  GitHub  |  Microservices Architecture
+▸	Containerized 5+ independent microservices (booking, auth, payment, notification, API gateway) using Docker with custom Dockerfiles and multi-stage builds, reducing image size by 60%
+▸	Deployed entire microservices suite on a Kubernetes cluster using Deployments, Services, and ConfigMaps; implemented rolling update strategy for zero-downtime releases
+▸	Configured Kubernetes ClusterIP and LoadBalancer services along with NetworkPolicies for secure inter-service communication and external traffic routing
+▸	Implemented Horizontal Pod Autoscaler (HPA) with custom CPU and memory thresholds, enabling the platform to handle 5x peak traffic automatically
+▸	Managed source control and team collaboration through GitHub, enforcing GitFlow branching strategy throughout the project lifecycle
 ```
 
 ```md
-Project: Infrastructure Automation with Terraform
-• Created reusable Terraform modules for AWS infrastructure
-• Automated provisioning of EC2, VPC, IAM, and Load Balancers
-• Implemented remote state management and state locking
+Project 2: EASY CRUD – 3-Tier Application Deployment
+Technologies: Docker  |  Linux  |  Git  |  MySQL  |  Docker Compose
+▸	Architected and deployed a production-grade 3-tier application (React frontend, Node.js backend, MySQL database) using Docker Compose with isolated bridge networks for each tier
+▸	Containerized all three application layers with Docker; configured persistent volumes for the MySQL container ensuring data durability across container restarts
+▸	Integrated backend RESTful APIs with MySQL using environment-variable-based connection management, eliminating hardcoded credentials from all application code
+▸	Managed full project lifecycle using Git and GitHub, including feature branching, pull requests, and semantic version tagging for each production release
+▸	Deployed and maintained the application on a Linux (Ubuntu 22.04) server, configuring system firewall rules and environment variable management for each environment
 ```
 
 ---
